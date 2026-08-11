@@ -1,0 +1,6 @@
+algorithm|noun|A sequence of steps used to solve a problem|The program uses a sorting algorithm.
+compile|verb|To translate source code into executable code|Compile the program before running it.
+pointer|noun|A variable that stores a memory address|The pointer refers to an integer variable.
+repository|noun|A location where project files and history are stored|The team pushed the repository to GitHub.
+firewall|noun|A network security device that monitors network traffic|The firewall blocked unauthorized access.
+encryption|noun|The process of converting information or data into a code|Data encryption protects sensitive user details.

@@ -1,0 +1,5 @@
+cybersecurity|noun|The practice of protecting systems and networks|Cybersecurity is critical.
+invalid_line_without_pipes
+malformed|verb|Only two fields
+duplicate_test|noun|First entry|This is valid.
+duplicate_test|noun|Second entry with same word|This should be ignored as duplicate.

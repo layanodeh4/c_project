@@ -1,0 +1,5 @@
+*.o
+*.exe
+lexicore
+.vscode/
+.DS_Store
